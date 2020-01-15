@@ -1,6 +1,10 @@
 #include "all.h"
 #include <math.h>
 
+//测试github
+
+
+
 //	QEI_Init();
 //	TSL1401_Init();
 //	FSMC_SRAM_Init();			//初始化外部SRAM
